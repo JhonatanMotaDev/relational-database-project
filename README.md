@@ -53,6 +53,6 @@ O arquivo [sql/04_consultas.sql](sql/04_consultas.sql) contém 15 consultas come
 ## Equipe e publicação
 
 - Integrantes: Jhonatan Pereira Mota e Ana Elisa Barbosa Cunha.
-- Repositório público: <https://github.com/JhonatanMotaDev/relational-database-project>.
+- Repositório público: [Link para o repositório](https://github.com/JhonatanMotaDev/relational-database-project)
 
 Os dados de demonstração são fictícios.
